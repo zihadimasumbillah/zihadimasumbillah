@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=zihadimasumbillah&label=Profile%20views&color=0e75b6&style=flat)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/zihadimasumbillah)
 
@@ -6,22 +6,17 @@
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, I'm Sushil Magare" style="width: 70%; max-width: 100%; border-radius: 10px;">
 </div>
 
-<h1 align="center">👋 Hi, I'm Masum Billah Zihadi 
-  <p style="text-align: center;">
-  <a href="https://github.com/zihadimasumbillah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://www.linkedin.com/in/masumbillahzihadi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://twitter.com/Masum_Billah_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://www.facebook.com/profile.php?id=100004368227802" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-</p>
-</h1>
+![Profile views](https://komarev.com/ghpvc/?username=hello&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Sushil Magare
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 
 ---
