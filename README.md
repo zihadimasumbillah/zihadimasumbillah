@@ -29,7 +29,8 @@ I am currently studying for a Bachelor of Computer Science and Engineering at <a
 
 I aim to contribute to projects that value **user privacy**, **security**, and **cutting-edge innovation**.
 
-**🌐 Let's Connect
+🌐 Let's Connect
+
 <p>
   <a href="https://github.com/zihadimasumbillah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
@@ -51,7 +52,7 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 
 ---
 
-## 🛠️ Skills
+##<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">   Skills
 
 <div align="center">
 
@@ -71,7 +72,6 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 | Learning | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white"/>
 
 </div>
-
 
 
 ---
