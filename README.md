@@ -5,8 +5,8 @@
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, I'm Masum Billah Zihadi" style="width: 70%; max-width: 100%; border-radius: 10px;">
   <h1>👋 Hi, I'm Masum Billah Zihadi</h1>
-
-<div align="center">
+  
+  ### 🌐 Let's Connect
   <a href="https://linkedin.com/in/masumbillahzihadi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 6px;" />
   </a>
@@ -19,7 +19,6 @@
   <a href="https://www.instagram.com/weirdiebillah">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="28" style="margin-right: 6px;" />
   </a>
-</div>
 </div>
 
 ---
