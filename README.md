@@ -27,10 +27,20 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masumbillahzihadi)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zihadimasumbillah@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004368227802)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weirdiebillah)
+<div align="center">
+  <a href="https://linkedin.com/in/masumbillahzihadi">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zihadimasumbillah@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100004368227802">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/weirdiebillah">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
@@ -58,31 +68,9 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 
 ---
 
-### ✨ Fun Fact
-I love exploring **emerging technologies** and am always up for a new **challenge**.  
-In my free time, I enjoy **learning new tools** and experimenting with **cloud-native designs**!
-
----
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zihadimasumbillah&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zihadimasumbillah&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" style="width: 48%;"/>
-</div>
-
----
-
-### 🌟 Highlight Projects
-- **[Project Name 1](#)**: Brief description (e.g., tech used).  
-- **[Project Name 2](#)**: Brief description (e.g., tech used).  
-- **[Project Name 3](#)**: Brief description (e.g., tech used).
-
----
-
-### 🎯 Goals for 2024
+### 🎯 Goals for 2025
 - Land a **Junior Software Engineer** role specializing in **MERN stack**.  
 - Contribute to **open-source projects**.  
 - Advance my skills in **Cloud Computing** and **DevSecOps**.
 
 ---
-
