@@ -27,18 +27,19 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 ---
 
 ### 🌐 Let's Connect
+
 <div align="center">
   <a href="https://linkedin.com/in/masumbillahzihadi">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 6px;" />
   </a>
   <a href="mailto:zihadimasumbillah@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="28" style="margin-right: 6px;" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100004368227802">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 6px;" />
   </a>
   <a href="https://www.instagram.com/weirdiebillah">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="28" style="margin-right: 6px;" />
   </a>
 </div>
 
@@ -49,20 +50,20 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 <div align="center">
 
 ### **Core Technologies**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="MERN Stack" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="MERN Stack" style="margin-bottom: 8px;" />
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Languages" style="margin-bottom: 8px;" />
 
 ### **Frontend & Backend**
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Frontend" />  
-<img src="https://skillicons.dev/icons?i=nestjs,graphql" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Frontend" style="margin-bottom: 8px;" />  
+<img src="https://skillicons.dev/icons?i=nestjs,graphql" alt="Backend" style="margin-bottom: 8px;" />
 
 ### **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle" alt="Databases" style="margin-bottom: 8px;" />
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws" alt="Tools" style="margin-bottom: 8px;" />
 
 </div>
 
@@ -74,3 +75,13 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 - Advance my skills in **Cloud Computing** and **DevSecOps**.
 
 ---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zihadimasumbillah&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; margin-bottom: 12px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zihadimasumbillah&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" style="width: 48%;" />
+</div>
+
+---
+
