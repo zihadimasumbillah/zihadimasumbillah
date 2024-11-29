@@ -1,4 +1,8 @@
+![Profile views](https://komarev.com/ghpvc/?username=hello&label=Profile%20views&color=0e75b6&style=flat)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/MasumBillah-MB)
+
+
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, my name is Masum Billah Zihadi" style="width: 80%; max-width: 100%; border-radius: 10px;">
@@ -35,29 +39,40 @@ However, I keep my skill set expanding and my ears open at what is going on in s
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/weirdiebillah)
 
 
-## 🚀 Skills & Expertise
+## 🚀 <span style="color:#00C897;">Skills & Expertise</span>
 
-<div align="right">
+<div align="center">
 
-### **Core Development Stack**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="MERN Stack Technologies" style="margin: 10px;" />
+### **Core Stack**
+<span style="color:#3DB2FF;">React</span>, <span style="color:#FFCD3C;">Node.js</span>, <span style="color:#E63946;">Express</span>, <span style="color:#43AA8B;">MongoDB</span>, <span style="color:#000000;">Next.js</span><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="Core Stack" />
 
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=java,cpp,js,php" alt="Programming Languages" style="margin: 10px;" />
+---
 
-### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,sass,css,tailwind,bootstrap" alt="Frontend Technologies" style="margin: 10px;" />
+### **Languages**
+<span style="color:#FF5733;">JavaScript</span>, <span style="color:#007ACC;">TypeScript</span>, <span style="color:#FFD700;">Python</span>, <span style="color:#00599C;">C++</span>, <span style="color:#EA4335;">Java</span><br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" alt="Languages" />
 
-### **Backend & API Development**
-<img src="https://skillicons.dev/icons?i=node,express,nestjs" alt="Backend and API Tools" style="margin: 10px;" />
+---
+
+### **Frontend**
+<span style="color:#F55353;">HTML</span>, <span style="color:#1572B6;">CSS</span>, <span style="color:#4ADE80;">Tailwind CSS</span>, <span style="color:#7952B3;">Bootstrap</span><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Frontend" />
+
+---
 
 ### **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database Management" style="margin: 10px;" />
+<span style="color:#47A248;">MongoDB</span>, <span style="color:#4479A1;">MySQL</span>, <span style="color:#336791;">PostgreSQL</span>, <span style="color:#F80000;">Oracle</span><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle" alt="Databases" />
 
-### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" alt="Tools and Platforms" style="margin: 10px;" />
+---
+
+### **Tools**
+<span style="color:#F05032;">Git</span>, <span style="color:#181717;">GitHub</span>, <span style="color:#FF6C37;">Postman</span>, <span style="color:#007ACC;">VS Code</span>, <span style="color:#2496ED;">Docker</span><br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" alt="Tools" />
 
 </div>
+
 
 
 
