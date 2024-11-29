@@ -56,7 +56,7 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 ### **Programming Languages**
 <table>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="JavaScript" style="width: 50px; margin-bottom: 8px;" /></td>
     <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 50px; margin-bottom: 8px;" /></td>
     <td><img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; margin-bottom: 8px;" /></td>
     <td><img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; margin-bottom: 8px;" /></td>
