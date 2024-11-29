@@ -118,13 +118,11 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 
 ---
 
-### 📈 GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zihadimasumbillah&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; margin-bottom: 12px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zihadimasumbillah&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" style="width: 48%;" />
-</div>
+### 📈 Top Languages Used
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBillah-MB&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
 ---
+
 
