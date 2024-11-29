@@ -53,7 +53,7 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 
 
 
-<h1><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="15"> Skills</h1>
+<h1><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20"> Skills</h1>
 
 <div align="center">
 
