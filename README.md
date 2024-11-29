@@ -40,25 +40,23 @@ However, I keep my skill set expanding and my ears open at what is going on in s
 <div align="center">
 
 ### **Core Development Stack**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="MERN Stack Technologies" style="margin: 10px;" /><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="MERN Stack Technologies" style="margin: 10px;" />
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Programming Languages" style="margin: 10px;" /><br>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,php" alt="Programming Languages" style="margin: 10px;" />
 
 ### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Frontend Technologies" style="margin: 10px;" /><br>
+<img src="https://skillicons.dev/icons?i=html,sass,css,tailwind,bootstrap" alt="Frontend Technologies" style="margin: 10px;" />
 
 ### **Backend & API Development**
-<img src="https://skillicons.dev/icons?i=express,nestjs,graphql" alt="Backend and API Tools" style="margin: 10px;" /><br>
+<img src="https://skillicons.dev/icons?i=node.express,nestjs" alt="Backend and API Tools" style="margin: 10px;" />
 
 ### **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle" alt="Database Management" style="margin: 10px;" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database Management" style="margin: 10px;" />
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" alt="Tools and Platforms" style="margin: 10px;" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" alt="Tools and Platforms" style="margin: 10px;" />
 
-### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,netlify" alt="Cloud and DevOps" style="margin: 10px;" />
 
 </div>
 
