@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/zihadimasumbillah)
 
-![👋 Hi, my name is Masum Billah Zihadi](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![👋 Hi, my name is Masum Billah Zihadi](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=hello&label=Profile%20views&color=0e75b6&style=flat)
@@ -13,17 +13,6 @@
       <h1>
         👋 Hi, my name is Masum Billah Zihadi
       </h1>
-       <p>
-  <a href="https://github.com/zihadimasumbillah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://www.linkedin.com/in/masumbillahzihadi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://www.facebook.com/profile.php?id=100004368227802" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-</p>
     </summary>
   </ul>
 </div>
@@ -45,6 +34,18 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 ### 🚀 Currently Exploring
 - **MERN Stack Development**  
 - Researching **Cloud-native Design Patterns** and **Secure Software Practices**.
+- 
+- <p>
+  <a href="https://github.com/zihadimasumbillah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
+  </a> 
+  <a href="https://www.linkedin.com/in/masumbillahzihadi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+  </a> 
+  <a href="https://www.facebook.com/profile.php?id=100004368227802" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+</p>
 
 ---
 
