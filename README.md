@@ -50,22 +50,64 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 <div align="center">
 
 ### **Core Technologies**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="MERN Stack" style="margin-bottom: 8px;" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" alt="Express" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" style="width: 50px; margin-bottom: 8px;" /></td>
+  </tr>
+</table>
 
 ### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Languages" style="margin-bottom: 8px;" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php" alt="PHP" style="width: 50px; margin-bottom: 8px;" /></td>
+  </tr>
+</table>
 
 ### **Frontend & Backend**
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Frontend" style="margin-bottom: 8px;" />  
-<img src="https://skillicons.dev/icons?i=nestjs,graphql" alt="Backend" style="margin-bottom: 8px;" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" alt="Express" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=php" alt="PHP" style="width: 50px; margin-bottom: 8px;" /></td>
+  </tr>
+</table>
 
 ### **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle" alt="Databases" style="margin-bottom: 8px;" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="width: 50px; margin-bottom: 8px;" /></td>
+  </tr>
+</table>
 
 ### **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws" alt="Tools" style="margin-bottom: 8px;" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="width: 50px; margin-bottom: 8px;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="width: 50px; margin-bottom: 8px;" /></td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
