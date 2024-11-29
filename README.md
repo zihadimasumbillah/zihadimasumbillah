@@ -4,10 +4,9 @@
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, I'm Sushil Magare" style="width: 70%; max-width: 100%; border-radius: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=zihadimasumbillah&label=Profile%20views&color=0e75b6&style=flat">
   <h1>👋 Hi, I'm Masum Billah Zihadi</h1>
-  **<h3 align="left">Connect with me:</h3>**
-<p align="left">
+  <h3 align="left">Connect with me:</h3>**
+  <p align="left">
   <a href="https://github.com/zihadimasumbillah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
   </a> 
