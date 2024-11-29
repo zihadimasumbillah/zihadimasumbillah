@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/MasumBillah-MB)
 
-![👋 Hi, my name is Masum Billah Zihadi](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, my name is Masum Billah Zihadi" style="width: 80%; max-width: 100%; border-radius: 10px;">
+  <h1>👋 Hi, my name is Masum Billah Zihadi</h1>
+</div>
+
 
 
 
