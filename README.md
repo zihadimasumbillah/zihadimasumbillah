@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/zihadimasumbillah)
 
-<img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi, my name is Masum Billah Zihadi" style=" align-items: center; display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 100%; border-radius: 10px;">
+<img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi, my name is Masum Billah Zihadi" style="display: block; margin: 0 auto; width: 70%; max-width: 100%; border-radius: 10px;">
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=hello&label=Profile%20views&color=0e75b6&style=flat)
 
