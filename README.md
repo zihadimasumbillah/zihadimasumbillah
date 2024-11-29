@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/zihadimasumbillah)
 
-![👋 Hi, my name is Masum Billah Zihadi](https://miro.medium.com/v2/FGD6BUzzZs1VJLuY.gif)
+![👋 Hi, my name is Masum Billah Zihadi](https://miro.medium.com/v2/resize:fit:2358/0*FGD6BUzzZs1VJLuY.gif)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=hello&label=Profile%20views&color=0e75b6&style=flat)
