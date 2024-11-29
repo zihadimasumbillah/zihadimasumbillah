@@ -6,8 +6,8 @@
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, I'm Sushil Magare" style="width: 70%; max-width: 100%; border-radius: 10px;">
 </div>
 
-<h1 align="center">👋 Hi, I'm Sushil Magare </h1>
-<p style="text-align: center;">
+<h1 align="center">👋 Hi, I'm Masum Billah Zihadi 
+  <p style="text-align: center;">
   <a href="https://github.com/zihadimasumbillah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
   </a> 
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 4px">
   </a>
 </p>
+</h1>
 
 
 ---
