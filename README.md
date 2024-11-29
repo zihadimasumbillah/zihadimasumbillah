@@ -37,7 +37,7 @@ However, I keep my skill set expanding and my ears open at what is going on in s
 
 ## 🚀 Skills & Expertise
 
-<div align="center">
+<div align="right">
 
 ### **Core Development Stack**
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="MERN Stack Technologies" style="margin: 10px;" />
@@ -49,14 +49,13 @@ However, I keep my skill set expanding and my ears open at what is going on in s
 <img src="https://skillicons.dev/icons?i=html,sass,css,tailwind,bootstrap" alt="Frontend Technologies" style="margin: 10px;" />
 
 ### **Backend & API Development**
-<img src="https://skillicons.dev/icons?i=node.express,nestjs" alt="Backend and API Tools" style="margin: 10px;" />
+<img src="https://skillicons.dev/icons?i=node,express,nestjs" alt="Backend and API Tools" style="margin: 10px;" />
 
 ### **Databases**
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database Management" style="margin: 10px;" />
 
 ### **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" alt="Tools and Platforms" style="margin: 10px;" />
-
 
 </div>
 
