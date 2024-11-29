@@ -29,13 +29,8 @@ I am currently studying for a Bachelor of Computer Science and Engineering at <a
 
 I aim to contribute to projects that value **user privacy**, **security**, and **cutting-edge innovation**.
 
----
-
-### 🚀 Currently Exploring
-- **MERN Stack Development**  
-- Researching **Cloud-native Design Patterns** and **Secure Software Practices**.
-- 
-- <p>
+**🌐 Let's Connect
+<p>
   <a href="https://github.com/zihadimasumbillah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">
   </a> 
@@ -46,6 +41,13 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" height="28" style="margin-right: 4px">
   </a>
 </p>
+
+---
+
+### 🚀 Currently Exploring
+- **MERN Stack Development**  
+- Researching **Cloud-native Design Patterns** and **Secure Software Practices**.
+
 
 ---
 
