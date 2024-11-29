@@ -27,7 +27,8 @@
 ---
 
 ### 📚 About Me
-I am a **Bachelor of Computer Science and Engineering student** at [AIUB](https://www.aiub.edu), passionate about:
+I am currently studying for a Bachelor of Computer Science and Engineering at <a href="https://www.aiub.edu">American International University-Bangladesh (AIUB)</a>. With an eye on software development, I thrive in providing optimal, uncomplicated ways to resolve problematic issues. My interests span across various domains of the software industry, including:
+
 - **Full-stack web development** with a focus on **MERN stack**.
 - **Cloud-native application architecture** and DevSecOps practices.
 - Solving **real-world problems** with secure and efficient software.
@@ -118,7 +119,7 @@ I aim to contribute to projects that value **user privacy**, **security**, and *
 
 ### 📈 Top Languages Used
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBillah-MB&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zihadimasumbillah&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
 ---
