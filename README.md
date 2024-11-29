@@ -2,77 +2,87 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!)](https://github.com/MasumBillah-MB)
 
-
-
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, my name is Masum Billah Zihadi" style="width: 80%; max-width: 100%; border-radius: 10px;">
-  <h1>👋 Hi, my name is Masum Billah Zihadi</h1>
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, I'm Masum Billah Zihadi" style="width: 70%; max-width: 100%; border-radius: 10px;">
+  <h1>👋 Hi, I'm Masum Billah Zihadi</h1>
 </div>
 
+---
 
+### 📚 About Me
+I am a **Bachelor of Computer Science and Engineering student** at [AIUB](https://www.aiub.edu), passionate about:
+- **Full-stack web development** with a focus on **MERN stack**.
+- **Cloud-native application architecture** and DevSecOps practices.
+- Solving **real-world problems** with secure and efficient software.
+- Exploring emerging technologies in **IoT**, **Edge Computing**, and **Microservices**.
 
+I aim to contribute to projects that value **user privacy**, **security**, and **cutting-edge innovation**.
 
-<h3 align="left">
-  I am currently studying for a Bachelor of Computer Science and Engineering at <a href="https://www.aiub.edu">American International University-Bangladesh (AIUB)</a>. With an eye on software development, I thrive in providing optimal, uncomplicated ways to resolve problematic issues. My interests span across various domains of the software industry, including:
+---
 
-- Full-stack web development
-- Application architecture in the cloud native space
-- DevSecOps practices
-- Principles of secure software design
-- Application security and vulnerability assessment
-- Distributed systems, and microservices
-- IoT and Edge computing emerging technologies.
+### 🚀 Currently Exploring
+- **MERN Stack Development**  
+- Researching **Cloud-native Design Patterns** and **Secure Software Practices**.
 
-However, I keep my skill set expanding and my ears open at what is going on in software development and cybersecurity. I want to help work on projects that work to solve real world problems and that care about user privacy and security. I love to tackle new challenges, and I am always willing to work with people that are progressive and want to do great things in the tech world.
+---
 
-</h3>
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masumbillahzihadi)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zihadimasumbillah@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004368227802)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weirdiebillah)
 
-## <img src="img/rocket-joypixels.gif" width="30" height="30"> Currently Exploring:
-- MERN Stack Development 
-- Research
+---
 
-## <img src="img/fireflame.gif" width="27" height="30"> Let's Connect:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masumbillahzihadi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zihadimasumbillah@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004368227802)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/weirdiebillah)
-
-
-## 🚀 <span style="color:#00C897;">Skills & Expertise</span>
+## 🛠️ Skills
 
 <div align="center">
 
-### **Core Stack**
-<span style="color:#3DB2FF;">React</span>, <span style="color:#FFCD3C;">Node.js</span>, <span style="color:#E63946;">Express</span>, <span style="color:#43AA8B;">MongoDB</span>, <span style="color:#000000;">Next.js</span><br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="Core Stack" />
+### **Core Technologies**
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" alt="MERN Stack" />
 
----
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" alt="Languages" />
 
-### **Languages**
-<span style="color:#FF5733;">JavaScript</span>, <span style="color:#007ACC;">TypeScript</span>, <span style="color:#FFD700;">Python</span>, <span style="color:#00599C;">C++</span>, <span style="color:#EA4335;">Java</span><br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" alt="Languages" />
-
----
-
-### **Frontend**
-<span style="color:#F55353;">HTML</span>, <span style="color:#1572B6;">CSS</span>, <span style="color:#4ADE80;">Tailwind CSS</span>, <span style="color:#7952B3;">Bootstrap</span><br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Frontend" />
-
----
+### **Frontend & Backend**
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Frontend" />  
+<img src="https://skillicons.dev/icons?i=nestjs,graphql" alt="Backend" />
 
 ### **Databases**
-<span style="color:#47A248;">MongoDB</span>, <span style="color:#4479A1;">MySQL</span>, <span style="color:#336791;">PostgreSQL</span>, <span style="color:#F80000;">Oracle</span><br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle" alt="Databases" />
 
----
-
-### **Tools**
-<span style="color:#F05032;">Git</span>, <span style="color:#181717;">GitHub</span>, <span style="color:#FF6C37;">Postman</span>, <span style="color:#007ACC;">VS Code</span>, <span style="color:#2496ED;">Docker</span><br>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" alt="Tools" />
+### **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws" alt="Tools" />
 
 </div>
 
+---
 
+### ✨ Fun Fact
+I love exploring **emerging technologies** and am always up for a new **challenge**.  
+In my free time, I enjoy **learning new tools** and experimenting with **cloud-native designs**!
 
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zihadimasumbillah&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zihadimasumbillah&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" style="width: 48%;"/>
+</div>
+
+---
+
+### 🌟 Highlight Projects
+- **[Project Name 1](#)**: Brief description (e.g., tech used).  
+- **[Project Name 2](#)**: Brief description (e.g., tech used).  
+- **[Project Name 3](#)**: Brief description (e.g., tech used).
+
+---
+
+### 🎯 Goals for 2024
+- Land a **Junior Software Engineer** role specializing in **MERN stack**.  
+- Contribute to **open-source projects**.  
+- Advance my skills in **Cloud Computing** and **DevSecOps**.
+
+---
 
