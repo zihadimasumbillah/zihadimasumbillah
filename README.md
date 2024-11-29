@@ -37,20 +37,37 @@ However, I keep my skill set expanding and my ears open at what is going on in s
 
 ## 🚀 Skills
 
+### 🌐 Frontend Development
 <div align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php" alt="Programming Languages" /><br>
-  
-  <!-- Frontend Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend Frameworks" /><br>
-  
-  <!-- Backend Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend Frameworks" /><br>
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,oracle" alt="Databases" /><br>
-  
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" alt="Frontend Skills" />
 </div>
+
+---
+
+### 🛠️ Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend Skills" />
+</div>
+
+---
+
+### 🗂️ Databases & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle" alt="Databases & Cloud" />
+</div>
+
+---
+
+### 🧰 Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools & Platforms" />
+</div>
+
+---
+
+### 📚 Other Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,php" alt="Other Skills" />
+</div>
+
 
