@@ -2,7 +2,7 @@
 
 (https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-# <img src="img/wave.gif" width="27" height="27"> Hi there! I'm Masum Billah Zihadi <img src="https://komarev.com/ghpvc/?username=MasumBillah-MB&label=PROFILE+VIEWS&color=blueviolet" alt="Profile views" align="left" />
+[👋 Hi, my name is Masum Billah Zihadi](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
 <h3 align="left">
   I am currently studying for a Bachelor of Computer Science and Engineering at <a href="https://www.aiub.edu">American International University-Bangladesh (AIUB)</a>. With an eye on software development, I thrive in providing optimal, uncomplicated ways to resolve problematic issues. My interests span across various domains of the software industry, including:
