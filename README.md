@@ -19,12 +19,10 @@
 ---
 
 ### 📚 About Me
-I am currently studying for a Bachelor of Computer Science and Engineering at <a href="https://www.aiub.edu">American International University-Bangladesh (AIUB)</a>. With an eye on software development, I thrive in providing optimal, uncomplicated ways to resolve problematic issues. My interests span across various domains of the software industry, including:
+Soon to be a graduate in Computer Science & Engineering from the American International University of Bangladesh, a coding enthusiast. Driven by a passion for leveraging technology to solve challenges, I am keen on continuous learning and exploring new domains. While my current focus lies in software development.
 
-- **Full-stack web development** with a focus on **MERN stack**.
-- **Cloud-native application architecture** and DevSecOps practices.
-- Solving **real-world problems** with secure and efficient software.
-- Exploring emerging technologies in **IoT**, **Edge Computing**, and **Microservices**.
+My expertise is concentrated in full-stack development, and at the moment I am refining this stack with MongoDB, Express.js, React, and Node.js. My practical experience is with Next.js, Nest.js, Tailwind CSS, PHP and Bootstrap. My target is to develop systems that fully solve given actual tasks as fast as possible with minor security gaps and user friction.
+
 
 I aim to contribute to projects that value **user privacy**, **security**, and **cutting-edge innovation**.
 
