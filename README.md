@@ -15,7 +15,7 @@
 ---
 
 ### 📚 About Me
-Soon to be a graduate in Computer Science & Engineering from the American International University of Bangladesh, a coding enthusiast. Driven by a passion for leveraging technology to solve challenges, I am keen on continuous learning and exploring new domains. While my current focus lies in software development.
+Soon to be a graduate in Computer Science & Engineering from the American International University - Bangladesh, a coding enthusiast. Driven by a passion for leveraging technology to solve challenges, I am keen on continuous learning and exploring new domains. While my current focus lies in software development.
 
 My expertise is concentrated in full-stack development, and at the moment I am refining this stack with MongoDB, Express.js, React, and Node.js. My practical experience is with Next.js, Nest.js, Tailwind CSS, PHP and Bootstrap. My target is to develop systems that fully solve given actual tasks as fast as possible with minor security gaps and user friction.
 
